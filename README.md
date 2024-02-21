@@ -1,1 +1,1 @@
-# Manual_Testing-_of_Techland
+# Manual_Testing_of_Techland
